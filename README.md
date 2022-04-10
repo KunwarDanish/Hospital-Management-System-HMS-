@@ -1,6 +1,7 @@
 
 # Hospital Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Kunwar%20Danish%20&%20Arun%20Rautaray-blue)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Kunwar%20Danish-blue)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Arun%20Rautaray-red)
 ---
 ## Functions
 ### Admin
