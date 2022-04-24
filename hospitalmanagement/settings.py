@@ -136,11 +136,11 @@ EMAIL_BACKEND ='django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'kd4791@srmist.edu.in' # this email will be used to send emails
-EMAIL_HOST_PASSWORD = 'Realmeband@2000' # host email password required
+EMAIL_HOST_USER = 'email' # this email will be used to send emails
+EMAIL_HOST_PASSWORD = 'password' # host email password required
 # now sign in with your host gmail account in your browser
 # open following link and turn it ON
 # https://myaccount.google.com/lesssecureapps
 # otherwise you will get SMTPAuthenticationError at /contactus
 # this process is required because google blocks apps authentication by default
-EMAIL_RECEIVING_USER = ['kd4791@srmist.edu.in'] # email on which you will receive messages sent from website
+EMAIL_RECEIVING_USER = ['write your email '] # email on which you will receive messages sent from website
